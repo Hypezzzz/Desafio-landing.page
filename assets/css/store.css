@@ -1,0 +1,41 @@
+.background {
+	background-image: linear-gradient(
+			to bottom,
+			rgba(14, 12, 12, 0.747),
+			rgba(32, 179, 27, 0.527)
+		),
+		url("../img/fondo1.jpg");
+	height: 300px;
+	background-repeat: no-repeat;
+	background-size: 1800px 450px;
+	margin: 0 80px;
+}
+body {
+	background-color: #3f972275;
+}
+
+.texto {
+	padding: 120px 420px 0px 0px;
+	text-align: right;
+	font-family: "Anton", sans-serif;
+	font-size: 3rem;
+	font-weight: 300;
+}
+
+.lineados {
+	padding: 0px 420px 0px 0px;
+	text-align: right;
+	font-family: "Anton", sans-serif;
+}
+
+.imagenes-campaign {
+	width: 200px;
+	height: 200px;
+}
+
+.final {
+	text-align: center;
+	background-color: coral;
+	color: antiquewhite;
+	padding: 8px;
+}
